@@ -20,4 +20,4 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 When I'm not collecting domain names or slinging code, I occasionally hang out on the [Twitters](https://twitter.com/ryankanno).
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ryankanno)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ryankanno)](https://twitter.com/ryankanno)
