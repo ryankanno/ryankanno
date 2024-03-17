@@ -9,11 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI-generated Git commit messages](https://nocruft.com/2024/03/15/ai-generated-git-commit-messages/)
 - [December 2022 technologies](https://nocruft.com/2022/12/29/december-2022-technologies/)
 - [Shutting down allb.us](https://nocruft.com/2020/02/09/shutting-down-allbus/)
 - [Hello from Tokyo!](https://nocruft.com/2018/08/28/hello-from-tokyo/)
 - [November 2016 technologies](https://nocruft.com/2016/11/16/november-2016-technologies/)
-- [History of HICapacity](https://nocruft.com/2016/06/19/history-of-hicapacity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
