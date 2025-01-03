@@ -9,11 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [My computing journey](https://nocruft.com/2025/01/01/peter-taylor/)
 - [The MCP and other AI tools](https://nocruft.com/2024/12/25/the-mcp-and-other-ai-tools/)
 - [Migrating to UV](https://nocruft.com/2024/11/23/migrating-to-uv/)
 - [AI-generated Git commit messages](https://nocruft.com/2024/03/15/ai-generated-git-commit-messages/)
 - [December 2022 technologies](https://nocruft.com/2022/12/29/december-2022-technologies/)
-- [Shutting down allb.us](https://nocruft.com/2020/02/09/shutting-down-allbus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
