@@ -9,11 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [More AI Tools I&#39;m using](https://nocruft.com/2025/07/28/more-ai-tools/)
 - [My LLM Workflow](https://nocruft.com/2025/06/07/my-llm-workflow/)
 - [More LLM Musings: Notes from the Frontier](https://nocruft.com/2025/05/16/more-llm-musings-notes-frontier/)
 - [April 2025 technologies](https://nocruft.com/2025/04/25/april-2025-technologies/)
 - [My computing journey](https://nocruft.com/2025/01/01/peter-taylor/)
-- [The MCP and other AI tools](https://nocruft.com/2024/12/25/the-mcp-and-other-ai-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
