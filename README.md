@@ -9,11 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [On Being a Dad](https://nocruft.com/finds/2026/03/12/on-being-a-dad/)
 - [What You Only Learn by Building a Coding Agent From Scratch](https://nocruft.com/finds/2026/03/10/what-you-only-learn-by-building-a-coding-agent-from-scratch/)
 - [https://www.frankchiarulli.com/blog/building-the-rcade/](https://nocruft.com/finds/2026/03/03/https-www-frankchiarulli-com-blog-building-the-rcade/)
 - [Stop Putting Secrets in .env Files](https://nocruft.com/finds/2026/03/02/stop-putting-secrets-in-env-files/)
 - [Obsidian Sync now has a headless client, so you can sync vaults to a server without using the desktop app. Try the open beta: https://t.co/ZJO2q2NDZI](https://nocruft.com/finds/2026/03/02/obsidian-on-x-obsidian-sync-now-has-a-headless-client-so-you/)
-- [More AI Tools I&#39;m using](https://nocruft.com/2025/07/28/more-ai-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
