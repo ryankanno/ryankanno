@@ -9,11 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [My Patagonia MLC magnet modification](https://nocruft.com/finds/2026/03/15/my-patagonia-mlc-magnet-modification/)
 - [On Being a Dad](https://nocruft.com/finds/2026/03/12/on-being-a-dad/)
 - [What You Only Learn by Building a Coding Agent From Scratch](https://nocruft.com/finds/2026/03/10/what-you-only-learn-by-building-a-coding-agent-from-scratch/)
 - [https://www.frankchiarulli.com/blog/building-the-rcade/](https://nocruft.com/finds/2026/03/03/https-www-frankchiarulli-com-blog-building-the-rcade/)
 - [Stop Putting Secrets in .env Files](https://nocruft.com/finds/2026/03/02/stop-putting-secrets-in-env-files/)
-- [Obsidian Sync now has a headless client, so you can sync vaults to a server without using the desktop app. Try the open beta: https://t.co/ZJO2q2NDZI](https://nocruft.com/finds/2026/03/02/obsidian-on-x-obsidian-sync-now-has-a-headless-client-so-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
