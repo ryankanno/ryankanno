@@ -9,11 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Daily Unfold — Paper Folding Puzzle](https://nocruft.com/finds/2026/03/30/daily-unfold-paper-folding-puzzle/)
 - [Nightingale — Karaoke from your music library](https://nocruft.com/finds/2026/03/19/nightingale-karaoke-from-your-music-library/)
 - [LLM Architecture Gallery | Sebastian Raschka, PhD](https://nocruft.com/finds/2026/03/15/llm-architecture-gallery-sebastian-raschka-phd/)
 - [My Patagonia MLC magnet modification](https://nocruft.com/finds/2026/03/15/my-patagonia-mlc-magnet-modification/)
 - [On Being a Dad](https://nocruft.com/finds/2026/03/12/on-being-a-dad/)
-- [What You Only Learn by Building a Coding Agent From Scratch](https://nocruft.com/finds/2026/03/10/what-you-only-learn-by-building-a-coding-agent-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
