@@ -9,12 +9,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [John Kraus on X: &quot;The Artemis II crew&#39;s Earthset and eclipse images are now on https://t.co/VMZR8A84K2 in full resolution: Earthset: https://t.co/EbiwxthulT Captured with a Nikon D5 and Nikon 80-400mm f/4.5-5.6 at 400mm, 1/1000, f/8, ISO 400 Eclipse: http](https://nocruft.com/finds/2026/04/08/john-kraus-on-x-the-artemis-ii-crew-s-earthset-and-eclipse-i/)
-- [Puzzlehunts | Vikram Saraph](https://nocruft.com/finds/2026/04/05/puzzlehunts-vikram-saraph/)
-- [Daily Unfold — Paper Folding Puzzle](https://nocruft.com/finds/2026/03/30/daily-unfold-paper-folding-puzzle/)
-- [Nightingale — Karaoke from your music library](https://nocruft.com/finds/2026/03/19/nightingale-karaoke-from-your-music-library/)
-- [LLM Architecture Gallery | Sebastian Raschka, PhD](https://nocruft.com/finds/2026/03/15/llm-architecture-gallery-sebastian-raschka-phd/)
 <!-- BLOG-POST-LIST:END -->
+
+🔍 &nbsp;**Latest Finds**
+<!-- FINDS-LIST:START -->
+<!-- FINDS-LIST:END -->
 
 ---
 
