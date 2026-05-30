@@ -18,11 +18,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 🔍 &nbsp;**Latest Finds**
 <!-- FINDS-LIST:START -->
+- [The Water Dictionary](https://nocruft.com/finds/2026/05/22/the-water-dictionary/)
 - [The quiet grief of adult friendship](https://nocruft.com/finds/2026/05/18/the-quiet-grief-of-adult-friendship/)
 - [Artemis II Launch – 7.5 Seconds in Slo-Mo | National Geographic - YouTube](https://nocruft.com/finds/2026/04/29/artemis-ii-launch-7-5-seconds-in-slo-mo-national-geographic/)
 - [Flipbook](https://nocruft.com/finds/2026/04/24/flipbook/)
 - [YouTube now lets you turn off Shorts | The Verge](https://nocruft.com/finds/2026/04/16/youtube-now-lets-you-turn-off-shorts-the-verge/)
-- [John Kraus on X: &quot;The Artemis II crew&#39;s Earthset and eclipse images are now on https://t.co/VMZR8A84K2 in full resolution: Earthset: https://t.co/EbiwxthulT Captured with a Nikon D5 and Nikon 80-400mm f/4.5-5.6 at 400mm, 1/1000, f/8, ISO 400 Eclipse: http](https://nocruft.com/finds/2026/04/08/john-kraus-on-x-the-artemis-ii-crew-s-earthset-and-eclipse-i/)
 <!-- FINDS-LIST:END -->
 
 ---
