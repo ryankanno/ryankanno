@@ -18,11 +18,11 @@ You can find more about me over at [No Cruft](https://nocruft.com).
 
 🔍 &nbsp;**Latest Finds**
 <!-- FINDS-LIST:START -->
+- [The AI Superforecasters Are Here - by Scott Alexander](https://nocruft.com/finds/2026/07/04/the-ai-superforecasters-are-here-by-scott-alexander/)
 - [82-0](https://nocruft.com/finds/2026/06/05/82-0/)
 - [The Water Dictionary](https://nocruft.com/finds/2026/05/22/the-water-dictionary/)
 - [The quiet grief of adult friendship](https://nocruft.com/finds/2026/05/18/the-quiet-grief-of-adult-friendship/)
 - [Artemis II Launch – 7.5 Seconds in Slo-Mo | National Geographic - YouTube](https://nocruft.com/finds/2026/04/29/artemis-ii-launch-7-5-seconds-in-slo-mo-national-geographic/)
-- [Flipbook](https://nocruft.com/finds/2026/04/24/flipbook/)
 <!-- FINDS-LIST:END -->
 
 ---
